@@ -124,4 +124,6 @@ Seaborn
 
 Jupyter Notebook
 
+Submitted Artifacts - 1) Notebook (.ipynb) , 2) Presentation (.pptx or .pdf) , 3)README File (.md) , 4)Attached Dataset
+
 Created by - Rishov Paul
